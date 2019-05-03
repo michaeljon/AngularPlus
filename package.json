@@ -1,7 +1,7 @@
 {
   "name": "extras.angular.plus",
   "version": "0.9.3",
-  "main": ["ngplus-overlay.js"],
+  "main": "ngplus-overlay.js",
   "dependencies": {
     "angular": "^1.2.25"
   }
